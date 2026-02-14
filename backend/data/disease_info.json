@@ -1,0 +1,62 @@
+{
+    "Pepper__bell___Bacterial_spot": {
+        "description": "Bacterial spot on bell pepper causes small, dark, water-soaked lesions that may have a yellow halo. It can lead to premature leaf drop.",
+        "treatment": "Use copper-based bactericides. Avoid overhead watering. Remove and destroy infected plant debris."
+    },
+    "Pepper__bell___healthy": {
+        "description": "Your bell pepper plant is healthy with vibrant green foliage and no visible symptoms of disease. The leaves are firm and have a high saturation of green.",
+        "treatment": "Continue regular maintenance, ensuring proper drainage and adequate sunlight. Consistent watering is key."
+    },
+    "Potato___Early_blight": {
+        "description": "Early blight causes dark brown spots with concentric rings (bullseye appearance) on older potato leaves.",
+        "treatment": "Apply fungicides containing chlorothalonil or mancozeb. Rotate crops annually."
+    },
+    "Potato___Late_blight": {
+        "description": "Late blight is a devastating disease causing dark, water-soaked lesions that turn brown-black quickly in humid conditions.",
+        "treatment": "Apply copper-based fungicides immediately. Destroy infected plants to prevent spread."
+    },
+    "Potato___healthy": {
+        "description": "Your potato plant is healthy. The leaves are firm and evenly green.",
+        "treatment": "Ensure consistent watering and hilling to protect developing tubers."
+    },
+    "Tomato___Bacterial_spot": {
+        "description": "Bacterial spot causes small, dark, circular spots on tomato leaves, often with a yellow halo.",
+        "treatment": "Apply copper sprays. Avoid working with plants when they are wet."
+    },
+    "Tomato___Early_blight": {
+        "description": "Tomato early blight shows up as brown spots with rings. It usually starts on the lower leaves.",
+        "treatment": "Remove lower leaves to increase airflow. Apply appropriate fungicides."
+    },
+    "Tomato___Late_blight": {
+        "description": "Late blight on tomatoes causes large, irregularly shaped dark spots and can rapidly kill the entire plant.",
+        "treatment": "Use preventive fungicides. Remove infected plants immediately. Avoid high humidity."
+    },
+    "Tomato___Leaf_Mold": {
+        "description": "Leaf mold appears as pale green or yellow spots on the upper leaf surface with olive-green mold on the underside.",
+        "treatment": "Improve greenhouse ventilation. Reduce leaf wetness. Apply fungicides if severe."
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "description": "Septoria causes numerous small, circular spots with dark borders and grey centers.",
+        "treatment": "Apply fungicides. Mulch around the base of plants to prevent soil splash."
+    },
+    "Tomato___Spider_mites_Two-spotted_spider_mite": {
+        "description": "Spider mite damage appears as fine yellow stippling on leaves. Silk webbing may also be visible.",
+        "treatment": "Use insecticidal soap or neem oil. Increase humidity around the plant."
+    },
+    "Tomato___Target_Spot": {
+        "description": "Target spot causes brown spots with distinct concentric rings, similar to early blight but more circular.",
+        "treatment": "Ensure proper spacing for airflow. Use fungicides as needed."
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "description": "This virus causes severe stunting, upward leaf curling, and yellowing of leaf margins.",
+        "treatment": "Control whitefly populations (the primary vector). Use virus-resistant varieties."
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "description": "Mosaic virus causes mottling, distorted growth, and yellow/green patches on leaves.",
+        "treatment": "There is no cure for viruses. Remove and destroy infected plants. Wash hands after handling."
+    },
+    "Tomato___healthy": {
+        "description": "Your tomato plant looks great! It's healthy, strong, and ready for a good harvest.",
+        "treatment": "Continue regular pruning, watering, and staking for the best results."
+    }
+}

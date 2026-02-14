@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+tensorflow
+pillow
+numpy
+python-multipart
+python-dotenv
+tensorflow-datasets
+scikit-learn
+tqdm
